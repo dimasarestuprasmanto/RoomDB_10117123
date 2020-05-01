@@ -9,6 +9,15 @@ import android.util.Log;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+Tanggal Pengerjaan : 1 Mei 2020
+Deskripsi Pengerjaan : Membuat awal project sampai selesai =
+- MainActivity, AktivisDao, AktivisEntity, AppDatabase
+NIM : 10117123
+NAMA : Dimas Arestu Prasmanto
+KELAS : IF4
+ */
+
 public class MainActivity extends AppCompatActivity {
     private AktivisEntity aktivisEntity;
     public static AppDatabase db;
